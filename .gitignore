@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# PyCharm specific files
+.idea/
+*.iml
+*.iws
+out/
+*.log
+
+# PyCharm Python specific settings
+.idea/.idea_modules.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/*.iml
+.idea/vcs.xml
+.idea/.idea.properties
+
+# Data files (adjust based on your actual data files)
+*.csv
+*.tsv
+*.dat
+*.json
+*.xml
+*.db
+*.sqlite
+*.log
+*.h5
+*.hdf5
+*.parquet
+
+# Large binary files
+*.bin
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore MacOS specific files
+.DS_Store
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
