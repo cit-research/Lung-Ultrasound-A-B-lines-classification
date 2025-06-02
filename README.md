@@ -1,4 +1,4 @@
-# Lung-Ultrasound-A-B-lines-classification
+# Benchmarking Augmentation to Enhance A-Line and B-Line Classification with Sparse Data
 
 This repository contains a dataset and processing pipeline for benchmarking augmentation methods to enhance **A-line** and **B-line** classification under sparse data conditions. The data is annotated using [CVAT](https://www.cvat.ai/) and organized into three main folders:
 
