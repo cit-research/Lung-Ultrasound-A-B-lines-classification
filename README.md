@@ -1,6 +1,6 @@
 # Lung-Ultrasound-A-B-lines-classification
 
-This repository contains a dataset and processing pipeline for benchmarking augmentation methods to enhance **A-line** and **B-line** classification under sparse data conditions. The data is annotated using [CVAT](https://cvat.org) and organized into three main folders:
+This repository contains a dataset and processing pipeline for benchmarking augmentation methods to enhance **A-line** and **B-line** classification under sparse data conditions. The data is annotated using [CVAT](https://www.cvat.ai/) and organized into three main folders:
 
 - **A-lines** – Videos containing clear A-line patterns  
 - **B-lines** – Videos with visible B-line artifacts  
