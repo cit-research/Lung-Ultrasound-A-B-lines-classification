@@ -1,1 +1,1 @@
-# Lung-Ultrasound-A-B-lines-classificator
+# Lung-Ultrasound-A-B-lines-classification
