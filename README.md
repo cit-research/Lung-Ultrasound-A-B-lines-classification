@@ -6,8 +6,6 @@ This repository contains a dataset and processing pipeline for benchmarking augm
 - **B-lines** – Videos with visible B-line artifacts  
 - **No lines** – Videos where no relevant line patterns are present  
 
-Each video is accompanied by corresponding CVAT-exported annotations.
-
 ##  Pipeline
 
 The full data processing and analysis pipeline is included in this repository. It handles:
