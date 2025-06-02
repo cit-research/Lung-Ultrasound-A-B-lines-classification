@@ -27,7 +27,7 @@ out/
 *.csv
 *.tsv
 *.dat
-*.json
+#*.json
 *.xml
 *.db
 *.sqlite
